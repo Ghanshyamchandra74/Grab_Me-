@@ -1,3 +1,9 @@
 # Grab_Me-
-Instanteneous torque calcualtuion for each link integrated PID controller for closed loop feedback Real time image processing and state estimation using kalmann filter.
+
+open source matlab source codes for 2DoF plannner SERIAL Robotic Manipulator arm.
+*REAL TIME IMAGE PROCESSING TO GET CENTROID OF OBJECT TO BE FOLLOWED.
+*REAL TIME TRACING OF OBJECT USING FORWARD KINEMATICS BASED APPROACH.
+*REAL TIME TORQUE CALCULATION FOR EACH LINK USING INVERSE DYNAMICS (LAGRANGE FORMULATION EQUATION OF DYNAMICS).
+*ARMS ARE MODELED AS A ELASTIC BODY HENCE DEFLECTION CALCULATION USING DOUBLE INTEGRATION METHOD(ASSUMING AS CANTILEVER BEAM MODEL).
+*PLOTS OF ABOVE PARAMETER MENTIONED.
 Unzip Data.zip to same folder of Codes.
